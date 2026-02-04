@@ -1,8 +1,8 @@
 Follow these guidelines to execute the code.
 
 Project 1 - Decision Tree Algorithm Project.zip
-1. Download and unzip the folder and locate the .png files. The output results are stored there.
-2. If you want to read the raw code without executing it, you can click on 
+1. Download the folder and locate the .png files. The output results are stored there.
+2. The source code can be found at Decision Tree Algorithm Project\Decision Tree CART.py.
 3. To run the program, download the latest Python interpreter from the official website: http://python.org/downloads/release/python-3143/
 4. Install Microsoft Visual Studio 2026 Community or any other IDE to run the program.
 5. For best compatibility, efficiency, accessibility, and faster processing, it is recommended to use PyCharm.
