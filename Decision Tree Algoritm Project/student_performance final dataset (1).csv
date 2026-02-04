@@ -1,0 +1,101 @@
+Gender,StudyTime,Failures,Absences,ParentalEducation,Internet,G1,G2,FinalGrade
+Male,1,2,7,High School,Yes,3,5,F
+Male,4,0,0,High School,Yes,7,9,D
+Male,2,3,7,Bachelor,No,0,0,F
+Female,3,2,4,High School,No,3,1,F
+Female,1,2,11,Master,No,1,2,F
+Male,4,0,17,Bachelor,No,18,17,A
+Male,1,1,9,High School,Yes,3,4,F
+Female,4,2,5,Bachelor,No,6,6,F
+Male,2,1,5,Bachelor,No,8,10,D
+Male,3,0,7,High School,No,12,12,C
+Male,2,2,6,Master,No,12,13,C
+Male,3,1,7,Master,No,18,19,A
+Female,3,1,4,Master,No,2,0,F
+Male,2,1,13,Master,Yes,12,13,C
+Female,3,0,3,Master,No,20,20,A
+Male,3,3,5,Bachelor,Yes,8,10,D
+Male,1,2,20,Master,Yes,4,4,F
+Male,1,2,15,High School,Yes,11,11,C
+Male,1,1,18,High School,Yes,15,13,B
+Male,2,3,17,High School,No,16,18,A
+Female,2,1,9,Bachelor,No,14,16,B
+Female,1,1,7,High School,No,0,2,F
+Male,2,0,2,Master,Yes,7,5,F
+Male,3,0,16,High School,No,15,14,B
+Male,4,1,15,Bachelor,Yes,3,1,F
+Female,3,3,13,Bachelor,Yes,20,18,A
+Male,4,2,3,High School,Yes,6,8,F
+Female,2,3,5,Bachelor,No,7,5,F
+Female,1,0,20,Master,Yes,2,1,F
+Male,4,3,15,High School,No,1,0,F
+Female,1,3,8,Bachelor,No,13,15,B
+Female,2,1,9,High School,Yes,18,20,A
+Male,3,0,1,Master,No,16,18,A
+Male,1,0,5,High School,Yes,7,8,F
+Male,2,0,19,High School,No,18,20,A
+Female,3,1,10,High School,No,12,11,C
+Female,4,2,2,High School,No,19,20,A
+Male,1,1,16,Bachelor,Yes,11,9,D
+Male,3,2,5,Bachelor,No,19,20,A
+Male,3,0,4,Bachelor,Yes,3,5,F
+Male,3,2,19,High School,No,6,6,F
+Female,3,0,2,Master,No,8,6,F
+Male,3,1,20,Bachelor,Yes,14,16,B
+Female,1,0,2,Master,Yes,17,15,A
+Female,2,3,4,High School,No,11,9,D
+Female,2,1,3,Bachelor,No,19,18,A
+Male,2,1,13,High School,Yes,10,11,D
+Male,3,1,3,Bachelor,Yes,15,14,B
+Male,4,2,9,High School,Yes,0,0,F
+Female,3,2,2,Bachelor,No,20,20,A
+Female,3,0,3,Bachelor,Yes,18,18,A
+Male,1,3,11,Master,No,13,15,B
+Male,4,1,8,High School,No,0,2,F
+Male,3,3,2,Master,No,19,19,A
+Male,3,2,13,Bachelor,No,9,11,D
+Male,2,3,12,Master,Yes,19,20,A
+Female,4,0,9,Bachelor,Yes,13,15,B
+Female,4,3,14,Master,Yes,16,17,A
+Male,1,2,16,Master,No,2,1,F
+Female,2,1,4,High School,Yes,7,8,F
+Male,4,3,20,Master,Yes,12,13,C
+Female,2,1,20,Master,Yes,3,4,F
+Male,2,3,1,Master,Yes,3,4,F
+Male,4,2,14,Master,No,17,18,A
+Male,4,3,8,High School,No,16,17,A
+Male,3,3,2,Master,No,7,7,F
+Female,3,0,4,High School,Yes,12,11,C
+Male,1,3,13,Bachelor,No,13,11,C
+Male,4,3,18,Master,Yes,18,19,A
+Female,1,2,9,Bachelor,No,17,19,A
+Male,4,1,8,Bachelor,No,0,1,F
+Female,4,1,14,High School,Yes,12,14,C
+Male,1,3,4,Bachelor,Yes,1,1,F
+Female,3,1,14,Bachelor,No,12,12,C
+Female,3,0,15,High School,Yes,11,10,D
+Male,1,0,7,High School,Yes,19,18,A
+Male,2,3,3,Master,Yes,14,14,B
+Female,2,0,5,Bachelor,Yes,18,16,A
+Female,4,3,6,High School,Yes,3,3,F
+Male,1,2,17,Bachelor,No,2,4,F
+Female,1,3,15,High School,No,11,12,C
+Male,4,1,16,Master,No,19,20,A
+Female,4,3,18,Bachelor,No,7,5,F
+Female,4,1,14,Master,No,10,8,D
+Female,3,1,15,High School,No,8,8,D
+Female,3,0,16,High School,Yes,7,8,F
+Female,2,3,20,Master,No,14,12,C
+Male,3,1,12,Master,Yes,9,11,D
+Female,4,2,13,Master,No,11,12,C
+Female,3,2,7,High School,Yes,10,8,D
+Male,2,1,15,Bachelor,No,3,2,F
+Female,2,2,5,Bachelor,Yes,17,16,A
+Female,1,0,17,Bachelor,Yes,20,20,A
+Male,1,2,15,Bachelor,No,10,9,D
+Male,3,3,3,High School,No,15,13,B
+Male,2,1,18,Bachelor,Yes,7,5,F
+Female,2,3,14,Bachelor,No,18,19,A
+Female,1,0,6,Master,Yes,8,6,F
+Male,2,1,17,High School,Yes,0,1,F
+Female,4,2,1,High School,No,9,10,D
