@@ -11,7 +11,7 @@ Project 1 - Decision Tree Algorithm Project.zip
 8. Install all required packages before running the program. This can be done via the terminal within the virtual environment using pip or pip3.
 9. Some IDEs may automatically prompt you to install missing packages when running the program, depending on the software used.
 10. Alternatively, you can use the PyPI interface to search for and install required packages directly for faster setup.
-11. After installing the required packages, update the CSV file path or directory in the code to match the location of your dataset.
+11. After installing the required packages, update the CSV file path or directory in the code to match the location of your dataset. (Line 16 of the code)
 12. Once everything is set up, run the program.
 
 Project 2 - 
