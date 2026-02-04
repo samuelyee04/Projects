@@ -1,3 +1,5 @@
+Follow these guidelines to execute the code.
+
 Project 1 - Decision Tree Algorithm Project.zip
 1. Unzip the folder and locate the .png files. The output results are stored there.
 2. To run the program, download the latest Python interpreter from the official website: http://python.org/downloads/release/python-3143/
